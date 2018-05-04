@@ -17,7 +17,12 @@
         <exec.mainClass>com.roszpapad.kreszvizsga.controllers.MainApp</exec.mainClass>
         <license.licenseName>gpl_v3</license.licenseName>
     </properties>
-    
+    <scm>
+        <connection>scm:git:https://github.com/roszpapad/KreszVizsga.git</connection>
+        <developerConnection>scm:git:https://github.com/roszpapad/KreszVizsga.git</developerConnection>
+        <url>https://github.com/roszpapad/KreszVizsga</url>
+        <tag>master</tag>
+    </scm>
     <licenses>
         <license>
             <name>GNU General Public License (GPL) version 3.0</name>
