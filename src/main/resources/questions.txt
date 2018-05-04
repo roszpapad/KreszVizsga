@@ -1,0 +1,1760 @@
+1
+Milyen járművet vezethet az alábbiak közül "B" kategória érvényesített vezetői engedélyével?
+Legfeljebb 12 személyes mikrobuszt
+Kerti traktort
+Legfeljebb 150 cm3-es kismotorkerékpárt
+null
+1
+
+2
+Milyen gyakran kell a kormányberendezést, a fékberendezést, a gumiabroncsokat, valamint a kötelezően előírt világító- és fényjelző berendezéseket ellenőrizni?
+Legalább a napi első elindulás előtt
+Minden elindulás előtt
+Két-háromnaponta
+null
+0
+
+3
+Lakott területen belül közlekedik személygépkocsijával. Be kell-e csatolniuk magukat biztonsági övvel a hátsó ülésen helyet foglaló felnőtt utasainak?
+Igen
+Nem
+null
+null
+0
+
+4
+Behajthat-e jelzőlámpa tilos fényjelzése ellenére az útkereszteződésbe, ha a megkülönböztető jelzéseit használó gépjármű továbbhaladását csak így tudja biztosítani?
+Igen, de csak kellő körültekintéssel, mások veszélyeztetése nélkül
+Igen, de csak akkor, ha a forgalom irányítására jogosult személy, utasítást ad erre
+Nem
+null
+0
+
+5
+Mi minősül a közlekedési partner veszélyeztetésének?
+Ha valaki a közlekedés más résztvevőjét korábbi nyugodt haladási üteméből kizökkenti, fékezésre vagy irányváltoztatásra kényszeríti
+Ha valaki a közlekedés más résztvevőjét olyan helyzetbe hozza, amely baleset vagy kár bekövetkezésének a lehetőségével jár
+Ha valaki a közlekedés más résztvevőjét a továbbjutásban gátolja
+null
+1
+
+6
+Mikor hagyhatja figyelmen kívül a közúti jelzések utasítását vagy tilalmát?
+Ha a jelzés - véleménye szerint - ellentmond a közúti közlekedés logikájának
+Ha ez a forgalom biztonságát és zavartalanságát nem sérti
+Ha a rendőr erre utasítást ad
+null
+2
+
+7
+Személygépkocsiból és pótkocsiból álló járműszerelvénnyel autópályán közlekedik. Mekkora a megengedett legnagyobb sebessége?
+120 km/h
+100 km/h
+80 km/h
+null
+2
+
+8
+Mi teszi lehetővé a teljes környezet megfigyelését?
+Tekintetünk (figyelmünk) vándorlása
+A látótér
+A látás és a visszapillantótükrök
+null
+0
+
+9
+Miként változik a gépkocsi tengelyeinek terhelése fékezéskor?
+Az első és hátsó tengely terhelése egyaránt növekszik
+Az első tengely terhelése csökken, a hátsó tengely terhelése növekszik
+Az első tengely terhelése növekszik, a hátsó tengely terhelése csökken
+null
+2
+
+10
+Mikor szabad hirtelen fékezni?
+Csak akkor, ha ezt a személy- és vagyonbiztonság megóvása szükségessé teszi
+Csak akkor, ha az Ön mögött haladó jármű helyes követési távolságot tart
+null
+null
+0
+
+11
+A táblával jelölt úton kell-e számítania az úttesten közlekedő kerékpárosra?
+Igen 
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_11.gif
+1
+
+12
+Mit jelez ez a tábla?
+Az útszűkületben a korábbi forgalmi rendtől eltérően egyirányú forgalom van
+Az útszűkületben ebből az irányból tilos behajtani
+Az útszűkületben elsőbbséget kell adni a szembe jövő jármű részére
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_12.gif
+2
+
+13
+Előzhet-e a táblával jelzett útkereszteződésben?
+Igen
+Csak akkor, ha az előzés nem jár az úttest menetirány szerinti bal oldalának igénybevételével
+Nem
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_13.gif
+0
+
+14
+Mit jelez ez a tábla?
+A lakó-pihenő övezet végét
+A korlátozott sebességű övezet végét
+A korlátozott várakozási övezet végét
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_14.gif
+1
+
+15
+Merről kell kikerülnie az ilyen táblát, illetőleg azt az akadályt vagy egyéb tárgyat, amelyen a tárgyat elhelyezték?
+Csak jobbról
+Csak balról
+Jobbról vagy balról is elhaladhat mellette
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_15.gif
+0
+
+16
+Mit jelezhet ez a tábla?
+Az úton fénysorompóval biztosított olyan vasúti átjáró van, ahol teljes vagy félsorompó felszerelve nincs
+Az úton fél- és fénysorompóval biztosított vasúti átjáró van
+Az úton jelzőőrrel biztosított vasúti átjáró van
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_16.gif
+2
+
+17
+Személygépkocsival behajthat-e a táblával megjelölt útra?
+Igen
+Csak célforgalomban
+Nem
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_17.gif
+2
+
+18
+Haladhat-e folyamatosan az ilyen útburkolati jelen?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_18.gif
+1
+
+19
+Személygépkocsiját a tábla jelzésének megfelelően helyezi el. Mekkora területet foglalhat el a járdából?
+Az igénybe vehető terület nagyságát, csak a gépkocsi nyomtávja határozza meg
+Akkorát, hogy a gyalogosoknak maradjon meg legalább a járda egynegyed része
+A járda szélességének legfeljebb a felét úgy, hogy a gyalogosok közlekedésére legalább 1,5 méter szabadon maradjon
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_19.gif
+2
+
+20
+Behajthat-e az útkereszteződésbe, ha azt -forgalmi torlódás miatt- e fényjelzés időtartama alatt előreláthatólag elhagyni nem lehet?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_20.gif
+1
+
+21
+Ön a kormánykerékkel ábrázolt gépkocsit vezeti. Ennél a forgalomirányító jelzésnél hogyan kell balra bekanyarodni?
+A rendőrt megkerülve
+A rendőr előtt elhaladva
+Tetszés szerint a rendőr előtt vagy mögött elhaladva
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_21.gif
+1
+
+22
+Szabályosan közlekedik-e az "A" jelű gépkocsi?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_22.gif
+0
+
+23
+Ön a tanulókocsit vezeti. Ráhajthat-e az úttest szélén lévő fehér vonallal megjelölt területre?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_23.gif
+1
+
+24
+Az ábrázolt útkereszteződésben melyik jármű folytathatja az útját egyenesen?
+Az 1-es jelű gépkocsi
+Csak a 2-es jelű gépkocsi
+Csak a 2-es és a 3-as jelű gépkocsi
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_24.gif
+2
+
+25
+A tanulókocsit Ön vezeti. Kiszállhat-e utasa az úttest felőli oldalon?
+Igen, ha meggyőződött annak veszélytelenségéről
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_25.gif
+0
+
+26
+Mikor haladhat át a kormánykerékkel ábrázolt gépkocsijával az útkereszteződésen?
+A villamos és az "A" jelű gépkocsi után
+A villamos és az "A" jelű gépkocsi előtt
+A villamos után, az "A" jelű gépkocsi előtt
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_26.gif
+2
+
+27
+Ebben a forgalmi helyzetben van-e a tanulókocsinak elsőbbségadási kötelezettsége, ha jobbra kíván bekanyarodni?
+Igen, az "A" jelű kerékpár részére
+Nincs
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_27.gif
+0
+
+28
+Kell-e elsőbbséget adnia ebben a forgalmi helyzetben a kormánykerékkel ábrázolt gépkocsijával?
+Igen, az "A" jelű gépkocsi részére
+Igen, a "B" jelű gépkocsi részére
+Nem
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_28.gif
+0
+
+29
+Mely jármű haladhat tovább elsőként?
+Az "A" jelű gépkocsi
+A "B" jelű gépkocsi
+Az Ön kormánykerékkel ábrázolt gépkocsija
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_29.gif
+1
+
+30
+Hányadikként haladhat át az útkereszteződésben a kormánykerékkel ábrázolt gépkocsijával?
+Elsőként
+Másodikként
+Utolsóként
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_30.gif
+2
+
+31
+Mikor térhet vissza a menetirány szerinti jobb oldalra az előzést végrehajtó gépkocsi?
+Ha a két jármű között kb. 1-2 kocsihossznyi a távolság
+Ha a távolság a két jármű között már akkora, hogy az előzést befejező jármű mögött a megelőzött jármű biztonságos követési távot tud tartani
+Ha a távolság a két jármű között a megelőzött jármű féktávolságának megfelelő
+null
+1
+
+32
+Hogyan kell meggyőződni a mögöttes forgalomról az előzés megkezdése előtt?
+A belső visszapillantó tükörből és hátranézve
+A belső és külső visszapillantó tükörből, és ha szükséges hátrapillantva is
+Csak a belső visszapillantó tükörből
+null
+1
+
+33
+Szabad-e előzni a bukkanóban?
+Igen, de csak az egy nyomon haladó járművet
+Nem
+Igen, ha az úttesten egyirányú forgalom van, vagy záróvonal van felfestve, és az előzés nem jár annak érintésével
+null
+2
+
+34
+Mi a teendője, ha olyan megállóhelyhez érkezik, ahol a megálló villamosra az utasok fel- és leszállása az úttestről, illetőleg az úttestre történik?
+Megáll a villamos végének vonalában, és útját majd csak a villamos elindulása után folytatja
+Mérsékelt sebességgel és fokozott figyelemmel halad tovább, mert egy figyelmetlen utas a villamosról vagy a járdáról a gépkocsi elé léphet
+Balról, az ellentétes irányú villamospályán kerüli a villamost, hogy ne zavarja az utasforgalmat
+null
+0
+
+35
+Figyelembe kell-e venni párhuzamos közlekedés szempontjából a kerékpársávot?
+Igen
+Nem
+null
+null
+1
+
+36
+Mitől függ leginkább, hogy milyen következménnyel jár egy esetleges ütközés?
+Csak az ütköző gépkocsi sebességétől
+Attól, hogy mekkora sebességről milyen hosszú távon lassul le a gépkocsi
+Csak attól, hogy minek ütközik neki a gépkocsi
+null
+1
+
+37
+Ráhajthat-e a vasúti átjáróra, ha a teljes sorompó rúdjai mozgásban vannak?
+Igen
+Nem
+null
+null
+1
+
+38
+Balra kíván bekanyarodni. Általában hova kell besorolnia egyirányú forgalmú úton?
+Az úttest felezővonala mellé
+A bal oldali járda mellé
+null
+null
+1
+
+39
+Két várakozó gépkocsi közé kíván hátramenetben beállni. Kényszerítheti-e a gyalogost megállásra vagy visszalépésre, ha ő az Ön járműve mögött lépett az úttestre?
+Igen
+Nem
+null
+null
+1
+
+40
+Befolyásolja-e a motor tüzelőanyag-fogyasztását a gépjármű műszaki állapota?
+Nem, csak a menetbiztonságot
+Igen, nagymértékben
+null
+null
+1
+
+41
+Személygépkocsival egy autópálya külső forgalmi sávjában közlekedik. Belekezdhet-e az Ön előtt haladó összefüggő gépkocsioszlop előzésébe, ha a szabályos visszatérés helyét még nem látja?
+Igen
+Nem
+null
+null
+0
+
+42
+Köteles-e gondoskodni arról, hogy őrizetlenül hagyott járműve önmagától el ne indulhasson?
+Igen
+Nem köteles, de célszerű
+null
+null
+0
+
+43
+Felállhat-e gépkocsijával a járdára, ha azt közúti jelzés kifejezetten megengedi, de a gyalogosok részére csak 1,5 méter széles helyet tud szabadon hagyni?
+Igen, ha ez a hely nem kevesebb, mint a járda szélességének a fele
+Nem
+null
+null
+0
+
+44
+Éjszaka mivel kell kivilágítani a forgalomban résztvevő gépjárművet?
+Helyzetjelző lámpákkal és tompított fényszórókkal
+Kellően kivilágított úttesten csak a helyzetjelző lámpákkal
+Távolsági fényszórókkal
+null
+0
+
+45
+Mi a károkozó járművezető kötelessége, ha a személyi sérülés nélküli baleset folytán megrongálódott jármű a helyszínen nincs jelen?
+Haladéktalanul rendőri intézkedést kell kérni
+Személyi adatait a helyszínen hátrahagyva az esetet a rendőrségnek kell bejelenteni
+Személyi adatait és a biztosítója nevét a helyszínen hátrahagyva, az esetet a biztosítónak kell bejelentenie
+null
+2
+
+46
+Járhat-e veszéllyel, ha éjjel jól megvilágított útról egy rosszul megvilágított utcába hajt be gépkocsijával?
+Nem, mert a szeme gyorsan alkalmazkodik a rosszabb világításhoz
+Nem, ha a gépkocsi világítása megfelelő
+Igen, mert a szeme csak fokozatosan alkalmazkodik a rosszabb világításhoz
+null
+2
+
+47
+Szállítható-e utas a személygépkocsihoz kapcsolt lakókocsiban?
+Igen
+Nem
+null
+null
+1
+
+48
+Hogyan álljanak a kormányzott kerekek, ha az ábrázolt helyzetben balra kanyarodás előtt meg kell állni?
+Balra fordítva, hogy a szembejövő gépkocsi elhaladása után minél előbb megkezdhesse a kanyarodást
+Egyenesen, hogy egy esetleges hátulról történő ütközés esetén ne menjen át a menetirány szerinti baloldalra
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt1/53_48.gif
+1
+
+49
+Szabad-e vontatni olyan gépkocsit, amelynek a kormányszerkezete romlott el?
+Nem
+Igen, de csak vonórúddal
+Igen, de csak emelve
+null
+2
+
+50
+Átkelhet-e gyalogosként a híd úttestjén?
+Igen
+Nem
+null
+null
+1
+
+51
+Milyen izzókból kell legalább egy-egy darabot készenlétben tartani a gépkocsiban?
+Csak az első és hátsó helyzetjelző lámpában használt izzóból
+Csak az első és hátsó helyzetjelző lámpában és a tompított fényszóróban használt izzóból
+A tompított fényszóróban, az első és hátsó helyzetjelző, a fék- és irányjelző lámpában használt izzóból
+null
+2
+
+52
+Üzemeltethető-e tovább a szivattyús olajozású motor, ha az olajnyomás valamilyen hiba miatt megszűnt?
+Igen
+Nem
+null
+null
+1
+
+53
+Ha a lengéscsillapítók hibásak, akkor...
+a kerekek és az úttest kapcsolata rossz, csökken a menetbiztonság
+nagymértékben megnő az erőátviteli berendezések igénybevétele
+nagymértékben megnő a fékberendezések igénybevétele
+null
+0
+
+54
+Hogyan ismerhető fel menet közben, hogy a hidraulikus kormányszervó nem működik?
+A műszerfalon lévő ellenőrző lámpa, villogó vörös fénnyel jelez
+A műszerfalon lévő nyomásmérő olajnyomást nem mutat
+A gépkocsi kormányzásához a megszokottnál jóval nagyobb erőkifejtés szükséges
+null
+2
+
+55
+Kell-e a fékhatást ellenőrizni alvázmosás után?
+Nem, mert a kerékfékszerkezetekbe jutó víz nem csökkenti a fékhatást
+Nem, mert a fékszerkezetekbe víz nem juthat
+Igen, mert a kerékfékszerkezetekbe víz juthat, ami csökkenti a fékhatást
+null
+2
+
+56
+Lakógépkocsijával részt vehet-e úgy a forgalomban, hogy kerékpárját a jármű hátsó részéhez rögzíti?
+Igen, ha a kerékpár elhelyezése és megjelölése megfelel a teherszállításra vonatkozó előírásoknak
+Nem, a kerékpárt legfeljebb a tetőcsomagtartón helyezheti el, az erre alkalmas rögzítőberendezés segítségével
+null
+null
+0
+
+57
+Milyen járművet vezethet az alábbiak közül "B" kategóriára érvényesített vezetői engedélyével?
+Trolibuszt
+Segédmotoros kerékpárt
+Motoros triciklit
+null
+1
+
+58
+Milyen cipőben biztonságos a gépjármű vezetése?
+Magas sarkú cipőben
+Vékony talpú, lapos sarkú cipőben
+Vastag talpú cipőben, fapapucsban
+null
+1
+
+59
+Hogyan teljesíti elsőbbségadási kötelezettségét másik jármű részére nagyforgalmú úton?
+Úgy, hogy semmiképpen se kényszerítse partnerét haladási irányának vagy sebességének bármilyen megváltozatására
+Úgy, hogy semmiképpen se kényszerítse partnerét haladási irányának vagy sebességének hirtelen megváltozatására
+Úgy, hogy semmiképpen se kényszerítse partnerét haladási irányának vagy sebességének nagyobb mértékű megváltozatására
+null
+1
+
+60
+Helyes-e dohányozni gépkocsivezetés közben?
+Annak, aki rendszeresen dohányzik, igen, mert megnyugtatja, és így a közlekedés kevésbé idegesíti
+Nem, mert egészségkárosító hatása mellett a lehulló hamu vagy parázs olyan mértékben elvonhatja a figyelmét az útról, hogy közvetlen baleseti forrássá válhat
+null
+null
+1
+
+61
+Hol adhat hangjelzést balesetveszély esetén?
+Csak lakott területen kívül
+Csak lakott területen
+Lakott területen belül és kívül egyaránt
+null
+2
+
+62
+Járműve sebességét úgy kell megválasztania, hogy...
+bármilyen akadály előtt meg tudjon állni
+minden olyan akadály előtt meg tudjon állni, melyre az adott körülmények között számítania kell
+null
+null
+1
+
+63
+Mekkora a megengedett legnagyobb sebessége a személygépkocsinak az autópályán?
+100 km/h
+120 km/h
+130 km/h
+null
+2
+
+64
+Irányítható-e a gépkocsi, ha fékezéskor csak a hátsó kerekek csúsznak meg?
+Igen
+Nem
+null
+null
+0
+
+65
+Az alábbiak közül melyik burkolatú úttesten legrosszabb a gumiabroncsok tapadása esőzés alatt?
+A kockakő burkolatún
+A betonburkolatún
+Az aszfaltburkolatún
+null
+0
+
+66
+Elsőbbsége van-e a táblával jelölt úton haladóknak a betorkolló útról érkező járművel szemben?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_11.gif
+0
+
+67
+Mit jelez ez a tábla?
+A megfordulási tilalom végét
+Az úton megfordulni tilos
+Az úton balra bekanyarodni és megfordulni tilos
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_12.gif
+1
+
+68
+Mit jelez ez a tábla?
+Azt, hogy az övezetben a járművek csak a táblán megjelölt ideig tartózkodhatnak
+Olyan övezetet, ahol legalább a táblán megjelölt sebességgel kell haladni
+Azt, hogy a "Korlátozott sebességű övezet vége" tábláig a táblán megjelöltnél nagyobb sebességgel haladni tilos
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_13.gif
+2
+
+69
+Mit jelez ez a tábla?
+Az úton előbb lejtő, azután jelentősebb emelkedő van
+Az úton egymás után két vagy több veszélyes útkanyarulat van
+Az úttest erősen csúszóssá válhat
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_14.gif
+1
+
+70
+Mit jelez ez a tábla?
+A leálló sáv végét
+A kapaszkodósáv végét
+Várakozóhelyről vagy üzemanyagtöltő állomásról betorkolló utat
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_15.gif
+1
+
+71
+Autópályán ezt a közúti jelzést látja. Mire kell számítania?
+A pálya építésére és fenntartására, illetve közbiztonsági feladat ellátására szolgáló járművek a leállósávon a forgalommal szemben haladnak
+A pálya egyik oldalát útjavítás vagy egyéb okok miatt lezárták, és a járműveket onnan az ellenkező irányú forgalom lebonyolítására szolgáló úttestre terelték
+Az útra érvényes tilalmakat figyelmen kívül lehet hagyni, mert külön jelzés nélkül ért véget az autópálya
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_16.gif
+1
+
+72
+Szabálytalan elhelyezése miatt elszállíthatják-e azt a gépkocsit, amely a táblával jelölt úttest jobb szélén várakozik?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_17.gif
+1
+
+73
+Mit jelez ez a tábla?
+Az úttestre került sarat, szennyeződést -amely baleseti veszélyt jelent- az azt észlelő személynek el kell távolítania
+Az útszakasz útjavítási, karbantartási munkák miatt le van zárva
+Az úttesten vagy annak közvetlen közelében útjavítási, karbantartási vagy egyéb hasonló munkálat folyik
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_18.gif
+2
+
+74
+A táblával megjelölt úton közlekedik. Igénybe veheti-e gépjárművével folyamatos haladás céljára a külső (jobb szélső) sávot?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_19.gif
+1
+
+75
+Megállhat-e az útburkolati jellel megjelölt területen?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_20.gif
+1
+
+76
+Ön a tanulókocsit vezeti. Előzéshez igénybeveheti-e az út menetirány szerinti bal oldalát?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_21.gif
+0
+
+77
+Ön a kormánykerékkel ábrázolt gépkocsit vezeti. Ha a jelzőtábla nem tiltja bekanyarodhat-e balra ennél a jelzésnél?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_22.gif
+0
+
+78
+Számítania kell-e a járdaszigetről lelépő gyalogosokra a tanulókocsi vezetőjének?
+Igen, és elsőbbségük van a járművekkel szemben
+Nem
+Igen, ezért itt fokozott figyelemmel kell elhaladni
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_23.gif
+2
+
+79
+Az ábrázolt gépkocsit Ön vezeti. Köteles-e elsőbbséget adni a zárt pályáról érkező villamosok részére?
+Igen, de csak az azonos irányból érkező részére
+Igen, de csak az ellenkező irányból érkező részére
+Igen, mindkét irányból érkező részére
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_24.gif
+2
+
+80
+Szabályosan tartózkodik-e egy helyben az ábrán látható személygépkocsi?
+Igen, de csak 07-17 óráig
+Igen, de csak 17-07 óráig
+Igen, időponttól függetlenül, ha a rakodás folyamatos
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_25.gif
+1
+
+81
+Melyik jármű részére kell elsőbbséget adnia ebben a forgalmi helyzetben a kormánykerékkel ábrázolt gépkocsijával?
+Csak az "A" jelű jármű részére
+Csak az "B" jelű jármű részére
+Az "A" jelű és "B" jelű jármű részére egyaránt
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_26.gif
+2
+
+82
+Mikor haladhat át a kormánykerékkel ábrázolt gépkocsijával az ábrázolt útkereszteződésen?
+Az "A" jelű gépkocsi után, a "B" jelű jármű előtt
+Az "A" és a "B" jelű járművek után
+Az "A" és a "B" jelű járművek előtt
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_27.gif
+2
+
+83
+Hányadikként haladhat át az útkereszteződésben a kormánykerékkel ábrázolt gépkocsijával?
+Elsőként
+Másodikként
+Utolsóként
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_28.gif
+2
+
+84
+Ön a tanulókocsival balra kíván bekanyarodni. Melyik jármű haladhat tovább elsőként?
+Az "A" jelű személygépkocsi
+Az Ön tanulógépkocsija
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_29.gif
+0
+
+85
+Kell-e elsőbbséget adnia a kormánykerékkel ábrázolt gépkocsijával?
+Igen, de csak az "A" jelű villamos részére
+Igen, az "A" és a "B" jelű járművek részére egyaránt
+Nem
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_30.gif
+2
+
+86
+Átlépheti-e előzés céljából a párhuzamos közlekedésre alkalmas úttest felezővonalát?
+Igen
+Nem
+null
+null
+1
+
+87
+Belekezdhet-e előzésbe, ha az Ön előtt ugyanabban a forgalmi sávban haladó másik jármű, előzési szándékot jelzett?
+Igen
+Nem
+null
+null
+1
+
+88
+Merről előzheti meg az úttest közepén lévő, vágányokon haladó villamost?
+Csak jobbról
+Jobbról és balról egyaránt
+null
+null
+0
+
+89
+Miért jelent az idős emberek számára nagyobb veszélyt a forgalom, mint a fiatalok számára?
+Mert általában gyengébben látnak, nehezebben mozognak, lassabban reagálnak, és nem tudják helyesen megbecsülni a járművek sebességét
+Mert nem ismerik a közlekedési szabályokat
+Mert kevésbé fegyelmezettek és nem tartják be a közlekedési szabályokat
+null
+0
+
+90
+Olyan párhuzamos közlekedésre alkalmas úttesten közlekedik, ahol a forgalmi sávokat elválasztó útburkolati jelek nem láthatók. Hol közlekedhet folyamatosan, ha az úton jelentéktelen a járműforgalom?
+A jobb szélső forgalmi sávban
+Lakott területen bármelyik, lakott területen kívül a jobb szélső forgalmi sávban
+Bármelyik forgalmi sávban
+null
+0
+
+91
+Ráhajthat-e a vasúti átjáróra, ha a félsorompó nyitott állapotban van, de a fénysorompó villogó piros fényjelzést ad?
+Kellő körültekintés mellett igen
+Nem
+null
+null
+1
+
+92
+Főútvonalon halad. Elsőbbséget kell-e adnia az alárendelt úton érkező, borostyánsárga villogó figyelmeztető jelzést használó gépjármű részére?
+Igen
+Nem
+null
+null
+1
+
+93
+Hogyan közelíti meg a gyalogos-átkelőhelyet, ha azon gyalogosok haladnak át?
+Közvetlenül a gyalogos-átkelőhely előtt erőteljesen lassít, hogy a gyalogosok áthaladhassanak
+Már jó előre csökkenti a jármű sebességét, hogy a gyalogosok észrevegyék megállási szándékát
+Erőteljesen lassít, majd lassan áthalad a gyalogosok között
+null
+1
+
+94
+Általában milyen veszélyekkel kell számolni országúton, bukkanóknál?
+A bukkanó után az úttest állapota mindig rosszabb
+A bukkanó után útkanyarulat van
+A be nem látott útszakaszon váratlan akadály lehet
+null
+2
+
+95
+A tüzelőanyag-takarékos üzemeltetés érdekében hogyan kell a gépkocsit gyorsítani?
+Minden sebességfokozatban intenzíven növekvő gázadással, a legnagyobb fordulatszám 2/3-ának eléréséig kell gyorsítani
+A teljes gáz 50-60%-ának megfelelő gázadással, a legnagyobb fordulatszám kb. 1/2-ének eléréséig kell gyorsítani
+Teljes gázadással a legnagyobb fordulatszám kb. 2/3-ának eléréséig kell gyorsítani
+null
+0
+
+96
+Melyik a helyes kormányfogás az ábrán látható változatok közül?
+Az 1-es jelű
+Az 2-es jelű
+Az 3-es jelű
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_41.gif
+0
+
+97
+Szabad e megállni a villamos-megállóhelynél lévő járdasziget és a hozzá közelebb eső járda között?
+Igen
+Nem
+null
+null
+1
+
+98
+Megállhat-e járművével olyan helyen, ahol járműve és az úttest másik szélén álló jármű között legfeljebb 2,5 m széles hely marad?
+Igen
+Nem
+null
+null
+1
+
+99
+Nem kell az úttesten álló járművet éjszaka kivilágítani, ha...
+az úton az előzés tilos
+az úton közvilágítás van
+a "Mindkét irányból behajtani tilos - kivéve engedéllyel" jelzőtáblával megjelölt úttesten áll
+null
+1
+
+100
+A perifériás látómezőt érő fény vagy az éles látás mezejét érő fény vakít-e kevésbé?
+A perifériás látómezőt érő fény
+Az éles látás mezejét érő fény
+Egyformán vakít
+null
+0
+
+101
+Szabad-e éjszaka tompított fényszóró bekapcsolása nélkül, csak helyzetjelző lámpákkal közlekedni?
+Igen, de csak lakott területen belül, a kellően világított úttesten
+Igen, de csak szürkület kezdetén
+Nem, sohasem
+null
+2
+
+102
+Kell-e működtetni a vontatott gépkocsi féklámpáját és irányjelző berendezését?
+Nem
+Igen, minden esetben
+Igen, kivéve az emelve vontatást
+null
+2
+
+103
+Szabálysértést követ-e el, ha a gépkocsija hamutartójából az úttestre borítja a cigarettacsikkeket?
+Igen
+Nem
+null
+null
+0
+
+104
+Kiléphet-e az úttestre gyalogosként a szabad kilátást gátló akadály mögül?
+Csak ott, ahol a járművekkel szemben elsőbbsége van és meggyőződött az áthaladás veszélytelenségéről
+Kellő körültekintéssel és óvatossággal bárhol
+Nem
+null
+0
+
+105
+Általában mivel kell számolnia a vezetőnek országúton, kanyarodás közben, ha a személygépkocsi farnehéz?
+A hátsó kerekek nagyobb mérvű kúszása miatt a gépkocsi a kanyar belső oldala felé kormányozódik
+A hátsó kerekek nagyobb mérvű kúszása miatt a gépkocsi a kanyar külső oldala felé kormányozódik
+Az első kerekek nagyobb mérvű kúszása miatt a gépkocsi a kanyar belső oldala felé kormányozódik
+null
+0
+
+106
+Mit csinál, ha az ablaktörlő gumilapátja veszít törlőképességéből?
+Kicseréli a gumilapátot
+Sík felületen megcsiszolja a gumilapátot
+A megszokottnál több ablakmosó folyadékot juttat a szélvédőre
+null
+0
+
+107
+Hogyan állítja le a gépkocsi motorját tartós, megerőltető hegymenet után?
+A motort rövid ideig, egy-kettő percig nagy fordulatszámon működteti, hogy a gyorsan keringő folyadék a hűtést fokozza
+A motort rövid ideig, egy-kettő percig alapjárati fordulatszámon működteti, ezzel elősegíti a motor lehűlését
+A motort rögtön leállítja, hogy a motor hamarabb lehűljön
+null
+1
+
+108
+A tömítetlen, pl. repedt, lyukas kipufogó berendezést a lehető legrövidebb időn belül meg kell javíttatni, mert...
+az utastérbe szivárgó égéstermék mérgezést okoz, és a kipufogás nagy zajt kelt
+a motor teljesítménye nagymértékben csökken, és a motor túlmelegszik
+a motor tüzelőanyag-fogyasztása nagymértékben emelkedik
+null
+0
+
+109
+Mi lehet az oka, ha a gumiabroncs futófelülete az ábrán látható módon kopott?
+Az első futómű hibásan van beállítva
+A gumiabroncsot az előírtnál alacsonyabb nyomáson üzemeltették
+A gumiabroncsot az előírtnál magasabb nyomáson üzemeltették
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt2/54_54.gif
+2
+
+110
+Mi a hiba valószínű oka, ha a hidraulikus fék fékpedáljának ellenállása -többszöri lenyomása ellenére- nem szilárd, hanem rugalmas?
+Tömítetlenség miatt a folyadék elszivárog a fékrendszerből
+A fékrendszerbe levegő jutott, amely összenyomható
+A fékdob és a fékpofák egyenlőtlenül koptak meg
+null
+1
+
+111
+Köteles-e ellátni gépkocsiját "H" betűt feltüntető államjelzéssel?
+Igen
+Nem, csak akkor, ha gépkocsijával külföldre utazik
+null
+null
+1
+
+112
+Mit kell beállítania a vezetőnek elindulás előtt a gépkocsin?
+A visszapillantó tükröket és a vezetőülés magasságát
+A biztonsági övet és a kormánykerék állását
+A vezetőülést, a visszapillantó tükröket és a biztonsági övet, ha az nem automatikus állású
+null
+2
+
+113
+Szállíthat-e a személygépkocsi első ülésen 150 cm-nél alacsonyabb gyermeket?
+Igen, ha az ülőhelyhez három ponton rögzített biztonsági öv van felszerelve, és ezt becsatolja
+Csak akkor, ha az üléshez nem tartozik légzsák és a gyermeket biztonsági gyermekülésbe helyezi
+Nem
+null
+1
+
+114
+Oldalirányba legfeljebb mennyire nyúlhat ki a gépkocsi hátsó részén rögzített rakomány?
+0,4 m-re, ha a szélessége a 2,5 m-t nem haladja meg
+0,8 m-re, ha a szélessége a 2,5 m-t nem haladja meg
+1,0 m-re
+null
+0
+
+115
+Hogyan kell a közúti forgalomra vonatkozó jogszabályi rendelkezéseket megtartani?
+Mindig meg kell találni azt az előírást, amely szerint szabályszerűen érvényesítheti jogait másokkal szemben
+Elsősorban az úticélt és az időráfordítást kell mérlegelni úgy, hogy közben a pillanatnyi érdekeinek megfelelően, rugalmasan alkalmazkodjon a szabályokhoz
+Úgy, hogy a személy- és vagyonbiztonságot ne veszélyeztesse, másokat közlekedésükben indokolatlanul ne akadályozzon, és ne zavarjon
+null
+2
+
+116
+Ön gépkocsijával egy vasúti átjáró előtt a sorompó felnyitására várakozik. Használhatja-e kézben tartva mobiltelefonját?
+Igen, de csak az elindulásig
+Nem
+null
+null
+0
+
+117
+Lakókocsit vontató személygépkocsijának mekkora a legnagyobb megengedett sebessége?
+Lakott területen 40 km/h, az autópályán 100 km/h, autóúton 80 km/h, egyéb helyen 60 km/h
+40 km/h
+Autópályán 80 km/h, lakott területen 50 km/h, egyéb helyen 70 km/h
+null
+2
+
+118
+Téli időszakban hol számíthat fokozottabban az úttest eljegesedésére?
+Nyílt, szeles útszakaszon
+Hidakon, felüljárókon és erdősávval védett útszakaszokon
+Aluljárókban, alagutakban, és nyílt, szeles útszakaszokon
+null
+1
+
+119
+Nehéz terepszakaszokon (friss hó, vizenyős-süppedős földút) hogyan kell áthaladni?
+Nagy sebességgel, lendülettel
+Egyenletes, állandó tempóval
+Szakaszosan, az egyes szakaszok között meg kell állni
+null
+1
+
+120
+Miért kell csökkenteni a gépkocsi sebességét erős esőben?
+Mert nagyobb sebesség esetén a tapadás teljesen megszűnhet az úttest és a gumiabroncsok között, ún. vízen csúszás jöhet létre
+Mert a kerékfékszerkezetekbe jutó víz a fékhatást nagymértékben csökkenti
+Mert a gumiabroncsok igénybevétele nagymértékben megnő
+null
+0
+
+121
+Mit jelez ez a tábla?
+Az ajánlott haladási irányt
+Az útkereszteződésben jobbra kell továbbhaladni
+Az úton balra bekanyarodni és megfordulni tilos
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_11.gif
+1
+
+122
+Mit kell tennie, ha az ilyen táblával jelzett helyhez közeledik?
+Mérsékel sebességgel kell haladnia, mert az egyenetlen úttesten romlik a menetbiztonság
+A járművet gyorsítja, mert különben az egyenetlen úttesten a kerék és a talaj közötti szilárd kapcsolat megszűnhet
+Eggyel magasabb sebességfokozatba kapcsol, mert egyébként romlik a menetbiztonság
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_12.gif
+0
+
+123
+Mit jelez ez a tábla?
+Az úttestet a táblánál útburkolati jellel kijelölt gyalogos-átkelőhely keresztezi
+Az úttesten áthaladó gyalogosok forgalmát fényjelző készülék irányítja
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_13.gif
+0
+
+124
+Mire kell számítania a táblával jelölt helyen?
+Veszélyes lejtőre, ahol a féktávolsága azonos sebesség esetén is hosszabb lesz, mint a sík úton
+Az út oldalirányú dőlése miatt járműve könnyen megcsúszhat
+Az út menti részű miatt az útpadkára hajtani veszélyes
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_14.gif
+0
+
+125
+Mit jelent a kiegészítő tábla?
+Azt, hogy a szabálytalanul várakozó járművet elszállítással eltávolíthatják
+A megsérült és elhagyott járművek részére fenntartott várakozóhelyet
+Műszaki segélyt nyújtó járművek részére kijelölt állomáshelyet
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_15.gif
+0
+
+126
+Mit jelent ez a tábla?
+Az egyirányú forgalmú útra ebből az irányból behajtani tilos
+Az útra mindkét irányból tilos behajtani
+Az útra csak célforgalomban szabad behajtani
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_16.gif
+0
+
+127
+Az úton a megengedett legnagyobb sebességgel halad. Hol kell csökkentenie gépkocsija sebességét, ha ilyen táblához közeledik?
+Már a tábla előtt
+A tábla vonalában
+Csak a tábla után
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_17.gif
+0
+
+128
+Mit jelez ez a tábla?
+Az úton fénysorompóval biztosított olyan vasúti átjáró van, ahol teljes vagy félsorompó felszerelve nincs
+Az úton fény- és félsorompóval biztosított vasúti átjáró van
+Az úton jelzőőrrel biztosított vasúti átjáró van
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_18.gif
+0
+
+129
+Milyen jelzés következik ez után?
+Piros fény, mely a továbbhaladás tilalmát jelzi
+Piros és sárga fény együtt, mely az elindulásra való felkészülés lehetőségét jelzi
+Zöld fény, mely szabad utat jelez
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_19.gif
+0
+
+130
+Mit jelez az ilyen útburkolati jel?
+Azt, hogy a forgalmi sávból a következő útkereszteződésnél melyik irányba szabad továbbhaladni
+Azt, hogy a forgalmi sávot - a sávváltoztatásra vonatkozó szabályok megtartásával - a jelzett irányban el kell hagyni
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_20.gif
+1
+
+131
+Ön a kormánykerékkel ábrázolt gépkocsit vezeti. Ha jelzőtábla nem tiltja, bekanyarodhat-e jobbra ennél a jelzésnél?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_21.gif
+1
+
+132
+Szabályosan közlekedik-e az "A" jelű gépkocsi?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_22.gif
+0
+
+133
+Ön a tanulókocsit vezeti. Mikor indulhat el?
+Azonnal, ha a vonat elhaladt
+Ha a fénysorompó villogó, fehér fényjelzésre vált át
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_23.gif
+1
+
+134
+Ön a tanulókocsit vezeti. Hol kell megállnia?
+A tábla vonalában
+Az útkereszteződésbe való behaladás előtt
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_24.gif
+1
+
+135
+Ön a személygépkocsit vezeti. Elsőbbséget kell-e adnia a gyalogosoknak?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_25.gif
+1
+
+136
+Mikor haladhat át a kormánykerékkel ábrázolt gépkocsijával az ábrán látható útkereszteződésen?
+Az "A" jelű gépkocsival egyidejűleg, a "B" jelű villamos előtt
+A "B" jelű villamos után, Az "A" jelű gépkocsival egyidejűleg
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_26.gif
+1
+
+137
+Melyik jármű haladhat tovább elsőként?
+Az "A" jelű gépkocsi
+Az "B" jelű gépkocsi
+Az Ön kormánykerékkel ábrázolt járműve
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_27.gif
+2
+
+138
+Ön a tanulókocsit vezeti. Kell-e elsőbbséget adnia ebben a forgalmi helyzetben?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_28.gif
+1
+
+139
+Kell-e elsőbbséget adnia ebben a forgalmi helyzetben a kormánykerékkel ábrázolt gépkocsijával?
+Nem
+Igen, a "B" jelű jármű részére
+Igen, a "A" jelű gépkocsi részére
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_29.gif
+0
+
+140
+Hányadikként haladhat át az útkereszteződésben a kormánykerékkel ábrázolt gépkocsijával?
+Elsőként
+Másodikként
+Utolsóként
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_30.gif
+2
+
+141
+Legalább mekkora sebességkülönbség szükséges az előző és az előzendő gépjárművek között, hogy az előzési út ne legyen túl hosszú?
+Körülbelül 5-6 km/h
+Körülbelül 10-15 km/h
+Körülbelül 15-20 km/h
+null
+2
+
+142
+Mennyire közelíthető meg az előzendő jármű felzárkózásból történő előzés előtt?
+Annyira, hogy a távolság a két jármű között a féktávolságnak feleljen meg
+Néhány méterre, hogy az előzési út hossza minél rövidebb legyen
+Csak annyira, hogy az előzendő jármű hirtelen fékező megállása esetén is még biztonságosan meg tudjon állni
+null
+2
+
+143
+Mire kell számítania a megállóban álló autóbusz megközelítésekor?
+Arra, hogy a busz takarásából figyelmetlen gyalogos léphet a gépkocsija elé
+Arra, hogy a busz váratlanul kiindul a megállóból
+Arra, hogy a busz előtt várakozó gépkocsi van
+null
+0
+
+144
+Gépkocsival akkor hajthat a villamospályára, ha a villamosforgalmat...
+nem zavarja
+nem akadályozza, legfeljebb kis mértékben zavarja
+nem veszélyezteti, legfeljebb kis mértékben akadályozza
+null
+0
+
+145
+Figyelembe kell-e venni a párhuzamos közlekedés szempontjából a gyorsító- és lassítósávot?
+Igen
+Nem
+null
+null
+1
+
+146
+Hasznos-e egy-egy elképzelt közlekedési helyzet gondolatban való megoldása?
+Nem, ennek semmi értelme nincs
+Igen, ez segíti a közlekedési érzék és gondolkodás kialakulását
+Nem, mert ha gondolatban meg tudja oldani, akkor ez a valóságban is sikerülne
+null
+1
+
+147
+Jobbra kíván bekanyarodni. Az útkereszteződés előtt köteles-e besorolni az úttest jobb szélén lévő autóbusz forgalmi sávba?
+Igen
+Nem
+null
+null
+0
+
+148
+Féktávolságának határán észreveszi, hogy egy gyalogos szabálytalan helyen, halad át az úttesten. Ha mindketten változatlanul tartják a korábbi haladási ütemüket, akkor összeütköznek. Mit tesz?
+Ledudálja a gyalogost az úttestről
+Lassít, hogy szükség esetén meg tudja állítani a járművét
+Növeli a járműve sebességét, és úgy változtat irányt, hogy új nyomvonala félreérthetetlenül a gyalogos elé essék
+null
+1
+
+149
+Szabad-e hátramenetet végezni hídon?
+Igen
+Nem
+null
+null
+0
+
+150
+A tüzelőanyag-takarékos üzemeltetés érdekében melyik sebességi fokozatot kell bekapcsolni hegymenetben?
+Azt a sebességfokozatot, amelyikben a motor közepes fordulatszámon üzemeltethető
+Azt a sebességfokozatot, amelyikben a motor nagy fordulatszámon üzemeltethető
+Azt a sebességfokozatot, amelyikben a motor kis fordulatszámon üzemeltethető
+null
+0
+
+151
+Autópályán közlekedik. Hol állhat meg kikapcsolódás (pihenés) céljából?
+A leállósávon
+Az útpadkán
+Az út mellett kiépített várakozóhelyen
+null
+2
+
+152
+Ahol a jármű, és az úttest másik szélén álló másik jármű között legalább 3m széles hely nem marad, ott...
+megállni tilos
+megállhat, de nem várakozhat
+megállni, és várakozni egyaránt szabad
+null
+0
+
+153
+Köteles-e irányjelzővel jelezni megállási szándékát?
+Igen
+Csak akkor, ha irányváltoztatással jár
+Nem
+null
+0
+
+154
+Mivel kell kivilágítani éjszaka az úttesten várakozó gépjárművet?
+Helyzetjelző lámpákkal
+Tompított fényszórókkal
+Távolsági fényszórókkal
+null
+0
+
+155
+Sűrű köd miatt korlátozottak a látási viszonyok. Ki kell-e világítani a forgalomban résztvevő gépkocsit?
+Csak éjszaka
+Csak lakott területen kívül
+Igen
+null
+2
+
+156
+Helyes ívben kanyarodik-e országúton a személygépkocsi?
+Nem, mert a gépkocsi könnyen kisodródhat az úttestről
+Igen, mert a lehető legnagyobb sugarú íven halad, ezért a kisodródás veszélye kisebb
+Nem, mert könnyen átcsúszhat a felezővonalon
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt3/55_46.gif
+1
+
+157
+Elromlott járművet vontat. Milyen hosszú lehet legfeljebb a vonatórúd, illetve a vontatókötél?
+Legfeljebb 4 méter
+Legfeljebb olyan hosszú, mint a vontatott jármű
+Legfeljebb olyan hosszú, mint a vonó jármű
+null
+1
+
+158
+Közlekedhet-e gyalogosként az útpadkán, ha az úton van járda?
+Igen
+Nem
+null
+null
+1
+
+159
+Figyelembe kell-e vennie a közútnak és környezetének védelmére vonatkozó jogszabályi rendelkezéseket?
+Igen
+Nem
+null
+null
+0
+
+160
+Mikor hagyhatja el a balesettel érintett gépkocsivezető a baleset helyszínét rendőri intézkedés esetén?
+Csak akkor, ha erre az intézkedő rendőr engedélyt ad
+Adatainak az intézkedő rendőr által történt felvétele után bármikor
+null
+null
+0
+
+161
+Mi a következménye annak, ha az ékszíj laza, csúszik?
+Akkor a hűtés és a generátor töltése nem kielégítő
+Akkor a benzinszivattyú nem működik kielégítően
+Akkor a gyújtás időpontja megváltozik
+null
+0
+
+162
+Ha a tengelykapcsolónak nincs holtjátéka, akkor a motor és a sebességváltómű közötti kapcsolat...
+nem tökéletes, a tengelykapcsoló csúszik
+nem szakítható meg, a tengelykapcsoló nem old
+csak részben szakítható meg, a sebességváltás ezért zajos
+null
+0
+
+163
+Működik-e a hidraulikus kormányszervó akkor, ha a motor hibája miatt üzemképtelen gépkocsit vontatják?
+Igen
+Nem
+null
+null
+1
+
+164
+A személygépkocsi gumiabroncsa csak addig használható, amíg a futófelület bordázatának magassága -a teljes felületen- eléri...
+a 3 mm-t
+az 1,6 mm-t
+az 1 mm-t
+null
+1
+
+165
+Mi a hiba valószínű oka, ha a hidraulikus fék fékpedálja a teljes út kb. 2/3-ig benyomható, és csak akkor válik szilárddá az ellenállása?
+Nagy a hézag a fékpofák, és a fékdob között
+Tömítetlenség miatt a folyadék elszivárog a fékrendszerből
+Tömítetlenség miatt levegő jutott a rendszerbe
+null
+0
+
+166
+Elindulhat-e telephelyről (garázsból, várakozóhelyről stb.) olyan gépkocsival, amelynek elromlott az egyik féklámpája?
+Igen
+Csak kis forgalmú időszakban, és mellékútvonalon
+Nem
+null
+2
+
+167
+Mentesítheti-e orvos Önt a biztonsági öv viselésének kötelezettsége alól?
+Igen, ha igazolást ad arról, hogy az öv bekapcsolása egészségi okból hátrányos az Ön számára
+Nem
+null
+null
+1
+
+168
+Zavarhatja vagy akadályozhatja-e az Önnel szemben elsőbbséggel rendelkező gyalogost?
+Igen, nagy forgalom esetén még a jelentősebb akadályozás is indokolt lehet
+A zavarás lehet indokolt, de akadályozni mindig tilos
+A zavarás és az akadályozás egyaránt tilos
+null
+2
+
+169
+Találkozhat-e egyirányú forgalmú úton a menetiránnyal szemben közlekedő megkülönböztető jelzéseit használó gépjárművel?
+Igen, bármely időpontban
+Csak 22-06 h között
+Nem
+null
+0
+
+170
+Köteles-e teljesíteni a közlekedési magatartásra vonatkozó utasítást, ha azt hangszórón keresztül rendőrségi helikopterről adták?
+Igen
+Nem, az ilyen parancsnak nem lehet jogkövetkezménye
+null
+null
+0
+
+171
+Általában hol kell járművel haladnia az úton?
+Az úttest menetirány szerinti jobb oldalán, a lehetséges mértékben annak széléhez húzódva
+Az úttest menetirány szerinti jobb oldalán, annak szélétől legfeljebb egy méter távolságra
+A menetirány szerinti jobb oldalon bárhol
+null
+0
+
+172
+Járműve sebességét úgy kell megválasztania, hogy...
+a belátható útszakasz ne legyen hosszabb, mint a reakcióidő alatt befutott út
+féktávolsága ne legyen hosszabb, mint a belátható útszakasz fele
+féktávolsága ne legyen hosszabb, mint a belátható útszakasz
+null
+2
+
+173
+Mekkora a személygépkocsi megengedett legnagyobb sebessége az autóúton?
+120 km/h
+110 km/h
+90 km/h
+null
+1
+
+174
+Melyik sebességfokozatban a legnagyobb a gépkocsi vonóereje?
+Az I.sebességfokozatban és hátramenetben
+A II.sebességfokozatban
+A legnagyobb sebességfokozatban
+null
+0
+
+175
+Mire számíthat, ha a kerekek fékezéskor nem gördülnek, hanem állóra fékeződnek (blokkolnak)?
+A fékút a többszörösére növekszik
+A gépkocsi kifarolhat, mivel a csúszó kerekek elvesztik ellenállásukat az oldalerőkkel szemben
+A fékhatás nagymértékben csökken
+null
+1
+
+176
+A táblával jelölt út úttestjén kell-e számítani szembejövő forgalomra?
+Igen 
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_11.gif
+1
+
+177
+Mit jelez ez a tábla?
+Az úton a megjelölt sebességgel kell haladni
+Az úton a megjelölt sebességnél lassabban kell haladni
+Az úton a megjelöltnél nagyobb sebességgel haladni tilos
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_12.gif
+2
+
+178
+Köteles-e irányjelzést adni, ha a táblán vastag vonallal jelzett utat egyenesen elhagyja?
+Igen, jobbra kell jelzést adni
+Igen, balra kell jelzést adni
+Nem
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_13.gif
+0
+
+179
+Mire kell számítania, ha az úton ilyen táblát lát?
+Az út zsákutca, így csak ebből az irányból lehet oda be- és kihajtani
+Az úttesten olyan javítási munka folyik, ami akadályozza a járművek folyamatos haladását
+Az utat a rendőrség útzár telepítésével lezárta
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_14.gif
+2
+
+180
+Mire kell fokozottan ügyelnie a táblával megjelölt övezetben?
+A gyalogosok - különösen a gyermekek - és a kerékpárosok biztonságára
+A tömegközlekedést bonyolító járművekre, mert a többi járművel szemben előnyt élveznek
+Forgalomirányítással nem szabályozott veszélyes útkereszteződésekre
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_15.gif
+0
+
+181
+Lakott területen a jelzőtáblát elhagyva legfeljebb milyen sebességgel közelítheti meg a vasúti átjárót?
+20 km/h
+30 km/h
+40 km/h
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_16.gif
+1
+
+182
+Mire kell számítani a jelzett helyen, ha az úton ilyen táblát lát?
+Hóesés esetén fokozott baleseti veszélyre, mert ilyenkor az úttest erősen csúszóssá válhat
+Jobbra ívelő útkanyarulatra, amelyben az út egy részét felbontották az ott folyó karbantartási munkák miatt
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_17.gif
+0
+
+183
+Mit jelez ez a tábla?
+Járműforgalom elől elzárt útszakaszt
+Az útra csak személygépkocsival tilos behajtani
+Az útra - a kétkerekű motorkerékpár kivételével - gépjárművel, valamint mezőgazdasági vontatóval és lassú járművel behajtani tilos
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_18.gif
+2
+
+184
+Meddig tart a tábla hatálya?
+A következő útkereszteződésig
+A "Megállni tilos" vagy a "Várakozni tilos" tábláig
+A "Várakozási övezet (zóna) vége" tábláig
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_19.gif
+2
+
+185
+Mire hívja fel a figyelmet a fényjelző készülék villogó sárga fénye?
+Az útkereszteződésbe a jobbkéz-szabály szerint alakul az elsőbbség kérdése
+Veszélyes helyre, ahol fokozott óvatossággal szabad továbbhaladni
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_20.gif
+1
+
+186
+Ön a tanulókocsit vezeti. Mi a teendője, ha a fénysorompó üzemzavarát észleli?
+A "Vasúti átjáró kezdete" táblánál meg kell állnia. Továbbhaladnia csak akkor szabad, ha meggyőződött arról, hogy vasúti jármű nem közeledik
+Meg kell állnia, és várnia kell arra, hogy az ilyenkor helyszínre siető jelzőőr engedélyt adjon a továbbhaladásra
+Megállás nélkül folytathatja útját, ha kellő biztonsággal meg tud győződni arról, hogy egyik irányból sem közeledik vasúti jármű
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_21.gif
+0
+
+187
+Kötelező-e irányjelzést adni ebben a forgalmi helyzetben?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_22.gif
+0
+
+188
+Folytathatja-e az útját a tanulókocsi, ha a rendőr ebben a testhelyzetben a karját felemelte?
+Igen, mert szabad jelzés következik
+Csak akkor, ha az útkereszteződés előtt már biztonságosan megállni nem lehet
+Nem, a gépkocsit mindenképpen meg kell állítani
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_23.gif
+1
+
+189
+Szabályosan közlekedik-e az "A" jelű gépkocsi?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_24.gif
+0
+
+190
+Szabad-e az adott helyen a személygépkocsival megállni?
+Igen
+Nem
+null
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_25.gif
+0
+
+191
+Hányadikként haladhat át az útkereszteződésen a kormánykerékkel ábrázolt járművével?
+Elsőként
+Másodikként
+Utolsóként
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_26.gif
+0
+
+192
+A kormánykerékkel ábrázolt gépkocsijával az útkereszteződéshez érkezik. Melyik jármű haladhat tovább utolsóként?
+Az "A" jelű gépkocsi
+Az "B" jelű gépkocsi
+Az Ön kormánykerékkel ábrázolt gépkocsija
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_27.gif
+2
+
+193
+Ön a kormánykerékkel ábrázolt gépkocsit vezeti. Van-e elsőbbségadási kötelezettsége?
+Igen, az "A" jelű motorkerékpár részére
+Igen, az "B" jelű villamos részére
+Nincs
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_28.gif
+2
+
+194
+Mikor haladhat át a kormánykerékkel ábrázolt gépkocsijával az útkereszteződésen?
+A "B" jelű jármű után, az "A" jelű jármű előtt
+Az "A" és a "B" jelű járművek előtt
+Az "A" és a "B" jelű járművek után
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_29.gif
+1
+
+195
+A kormánykerékkel ábrázolt gépkocsijával az útkereszteződéshez érkezik. Melyik jármű haladhat tovább elsőként?
+Az "A" jelű gépkocsi
+A "B" jelű gépkocsi
+Az Ön kormánykerékkel ábrázolt gépkocsija
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_30.gif
+0
+
+196
+Hogyan kell meggyőződnie a mögöttes forgalomról az előzés megkezdése előtt?
+A belső visszapillantó tükörből és hátranézve
+A belső és külső visszapillantó tükörből, és ha szükséges, hátrapillantva is
+Csak a belső visszapillantó tükörből
+null
+1
+
+197
+Az alábbiak közül melyik jármű előzhető meg gépjárművel a vasúti átjáróban?
+A lassú jármű
+A lovas kocsi
+A kétkerekű motorkerékpár
+null
+2
+
+198
+Szabad-e kikerülni a megkülönböztető fényjelzést használó gépjárművet?
+Igen, fokozott figyelemmel
+Nem
+null
+null
+0
+
+199
+A várakozó gépkocsik melletti elhaladáskor mekkora oldaltávolságot célszerű tartani?
+Egy ajtónyitásnyit
+Egy keréknyomnyit
+Egy kocsiszélességnyit
+null
+0
+
+200
+Elsőbbséget kell e adnia egyenrangú útkereszteződésben a balról érkező villamospótló autóbusz részére?
+Igen, ha az a villamosvágányon közlekedik
+Igen, minden esetben
+Nem
+null
+2
+
+201
+Kanyarodósávot útburkolati jelekkel a villamospályán jelölték ki. Akadályozhatja-e a villamospályára való ráhajtáskor a villamost?
+Igen
+Nem
+null
+null
+1
+
+202
+Főútvonalon közlekedik. Kényszerítheti-e Önt egy másik jármű fékezésre, vagy irányváltoztatásra?
+Igen, mert számos olyan helyzet adódhat, amelyet csak a partner közreműködésével lehet biztonságosan megoldani
+Csak balesetveszély esetén, a baleset megelőzése érdekében
+Nem
+null
+0
+
+203
+A kijelölt gyalogos-átkelőhelyet olyan sebességgel kell megközelíteni, hogy...
+előtte bármikor meg tudjon állni
+ha járműve áthaladása előtt gyalogos érkezik a "zebrához", az zavartalanul áthaladhasson
+ez a gyalogosokat ne biztassa az átkelés megkezdésére
+null
+1
+
+204
+Mikor szükséges hátramenethez biztosító személy?
+Akkor, ha a jármű tolatólámpája nem működik
+Akkor, ha a személy- és vagyonbiztonság megkívánja a közreműködést
+Minden esetben, ha a hátramenet irányváltoztatással is jár
+null
+1
+
+205
+A tüzelőanyag-takarékos üzemeltetés érdekében mikor célszerű kisebb sebességfokozatba kapcsolni?
+Ha a motor fordulatszáma a legnagyobb fordulatszám 2/3-ára csökken
+Ha a motor fordulatszáma a legnagyobb fordulatszám 1/2-éra csökken
+Ha a motor fordulatszáma a legnagyobb fordulatszám 1/3-ára csökken, mielőtt a motor rángatna
+null
+2
+
+206
+Megfordulhat-e az autópályán?
+Igen, ha ezzel nem akadályozza a többi jármű közlekedését
+Csak ott, ahol az elválasztó sáv betonnal borított
+Nem
+null
+2
+
+207
+Autópályán közlekedve előzhet-e jobbról?
+Igen
+Nem
+null
+null
+1
+
+208
+Mikor szabad a gépkocsi ajtaját kinyitni?
+Ha ezzel a forgalomban résztvevőket nem zavarja
+Ha ezzel a forgalomban résztvevőket semmiféle manőverezésre nem kényszeríti
+Ha ezzel a közlekedés biztonságát, valamint a személy- és vagyonbiztonságot nem veszélyezteti
+null
+2
+
+209
+Várakozhat-e lakó-pihenő övezetben, ha az úton nincs járda?
+Igen, de csak a kijelölt várakozóhelyeken
+Nem, várakozni mindenütt tilos
+Igen, az általános várakozási szabályok érvényesek az ilyen helyen is, tehát ahol azok nem tiltják
+null
+0
+
+210
+Ki kell-e világítani az úttesten álló gépkocsit éjszaka, ha közvilágítás nincs, és más külső fényforrás sem világítja meg a gépkocsit kielégítően?
+Igen, a helyzetjelző lámpákkal
+Igen, a helyzetjelző lámpákkal és tompított fényszórókkal
+Nem kötelező, de ajánlatos
+null
+0
+
+211
+Mikor vakíthatnak a személygépkocsi helyesen beállított tompított fényszórói?
+Ha a generátor feszültségszabályzója hibás
+Ha a gumiabroncsokban az előírtnál nagyobb a légnyomás
+Ha a gépkocsi hátul nagyon meg van terhelve, vagy ha a hátsó kerék gumiabroncsaiban alacsony a légnyomás
+null
+2
+
+212
+Szabad-e a vezetőn kívül más személyt szállítani a vontatott járművön?
+Igen
+Nem
+null
+null
+1
+
+213
+Az ábrán látható irányú erős oldalszélben kb. 70-80 km/h sebességgel haladó személygépkocsi nagyméretű járműszerelvényt előz. Miért kell nagy oldaltávolságot tartani a két jármű között?
+Mert különben a széllel szemben kormányzott személygépkocsi a járműszerelvény mellé érve - a megszűnő oldalszél miatt - a járműszerelvénybe ütközhet
+Mert különben a járműszerelvény menetszele kitéríti a személygépkocsit az eredeti nyomvonalából
+Mert különben a járműszerelvény által keltett légörvény miatt egymáshoz ütközhetnek
+http://www.atigkt.hu/Templates/Atigkttemplate/img/bteszt/bteszt4/56_48.gif
+0
+
+214
+Vontathat-e személygépkocsijával pótkocsit, ha "B" kategóriás jogosítványa kezdő vezetői engedélynek minősül?
+Igen, de csak egy könnyű pótkocsit
+Igen, ha a járművet négyzet alakú, kék alapszínű, fehér "T" betűt ábrázoló táblával megjelöli
+Nem
+null
+2
+
+215
+Ha a forgalomban részt vevő gépkocsinak nincs vagy érvénytelen a környezetvédelmi igazolólapja, akkor az...
+nem minősül szabálysértésnek
+KRESZ-szabálysértésnek minősül
+null
+null
+1
+
+216
+Ha a motor üzemmeleg, le szabad-e venni a zárt rendszerű hűtő zárósapkáját?
+Nem, mert a hűtőrendszerben túlnyomás van így a kicsapódó forró folyadék és gőz, égési sérülést okozhat
+Nem, mert a hirtelen nyomásesés miatt a hűtőrendszer megsérülhet
+Igen, de csak akkor, ha előbb a kiegyenlítőtartályról a zárósapkát eltávolítják
+null
+0
+
+217
+Üzemeltethető-e tovább a gépkocsi, ha a hidraulikus kormányszervóban az olajnyomás megszűnt, de a hidraulikaolaj nem folyt el?
+Igen, tartósan is, mivel a kormányberendezés továbbra is üzemképes
+Nem, a gépkocsit a javítóműhelyig vontatni kell
+Igen, de csak a legközelebbi javítóműhelyig
+null
+2
+
+218
+A tengelykapcsoló holtjátéka a betétek fokozatos kopása miatt...
+növekszik
+nem változik
+csökken
+null
+2
+
+219
+Ha a gépkocsi kerekei kiegyensúlyozatlanok, akkor nagyobb sebességnél...
+az első kerekek szitáló, ugráló mozgása miatt a jármű nehezebben irányítható, a kormánykerék rángat
+a jármű nagymértékben beleng
+a gumiabroncsok sokkal jobban felmelegednek
+null
+0
+
+220
+Mi a hiba valószínű oka, ha a hidraulikus fék fékpedálja csekély ellenállással teljesen benyomható?
+Megnövekedett a fékpedál holtjátéka
+Megnövekedett a fékdob és a fékpofák közötti hézag
+Tömítetlenség miatt a fékfolyadék elfolyt
+null
+2
+vege
