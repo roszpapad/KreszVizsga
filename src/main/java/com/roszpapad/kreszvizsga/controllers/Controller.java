@@ -82,7 +82,7 @@ public class Controller {
         Validator v = new Validator();
         if (!v.checkIfNotEmpty(nameTextFld.getText())) {
             logger.warn("Start button pressed! Username is missing!");
-            errorLbl.setText("Kerjuk irja be a nevet!");
+            errorLbl.setText("Kérjük írja be a nevét!");
         } else {
             logger.info("Start button pressed! Exam is starting...");
             int width = 800, height = 600;

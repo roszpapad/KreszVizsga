@@ -37,7 +37,7 @@
             </Label>
             <TextField fx:id="nameTextFld" layoutX="341.0" layoutY="436.0" prefHeight="26.0" prefWidth="292.0" />
             <Button layoutX="495.0" layoutY="513.0" mnemonicParsing="false" onAction="#handleStartBtn" prefHeight="47.0" prefWidth="188.0" text="Start" />
-            <Button fx:id="optionsBtn" layoutX="128.0" layoutY="512.0" mnemonicParsing="false" onAction="#handleOptionsBtn" prefHeight="47.0" prefWidth="188.0" text="Opciok" />
+            <Button fx:id="optionsBtn" layoutX="128.0" layoutY="512.0" mnemonicParsing="false" onAction="#handleOptionsBtn" prefHeight="47.0" prefWidth="188.0" text="Opciók" />
             <Label fx:id="errorLbl" layoutX="316.0" layoutY="476.0" textFill="#f50303" />
             <ImageView fx:id="carImg" fitHeight="187.0" fitWidth="382.0" layoutX="222.0" layoutY="201.0" pickOnBounds="true" preserveRatio="true" />
          </children>
