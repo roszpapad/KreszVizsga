@@ -21,9 +21,7 @@ package com.roszpapad.kreszvizsga.controllers;
  * <http://www.gnu.org/licenses/gpl-3.0.html>.
  * #L%
  */
-
 import com.roszpapad.kreszvizsga.ExamRealizer;
-import com.roszpapad.kreszvizsga.controllers.ControllerEnd;
 import java.io.IOException;
 import static java.lang.System.exit;
 import javafx.concurrent.Task;
@@ -210,24 +208,29 @@ public class ControllerExam {
     }
 
     @FXML
-    private void handleContinueBtn() throws IOException {
+    private void handleContinueBtn() {
         index++;
         logger.info("Continue button pressed!");
         if (index == ExamRealizer.getExam().getNumberOfExercises()) {
-            logger.info("Exam has no more questions! Setting end scene...");
-            isEnd = true;
-            int width = 800, height = 600;
-            Stage stage = (Stage) aBtn.getScene().getWindow();
-            FXMLLoader fl = new FXMLLoader(getClass()
-                    .getResource("/fxml/End.fxml"));
-            Parent root = fl.load();
-            fl.<ControllerEnd>getController().initLabels();
-            stage.setTitle("Vege");
-            Scene scene = new Scene(root,width,height);
-            scene.getStylesheets().add(getClass().getResource("/styles/EndStyle.css").toExternalForm());
-            stage.setScene(scene);
-            stage.show();
-            stage.setOnCloseRequest(e -> exit(0));
+            try {
+                logger.info("Exam has no more questions! Setting end scene...");
+                isEnd = true;
+                int width = 800, height = 600;
+                Stage stage = (Stage) aBtn.getScene().getWindow();
+                FXMLLoader fl = new FXMLLoader(getClass()
+                        .getResource("/fxml/End.fxml"));
+                Parent root = fl.load();
+                fl.<ControllerEnd>getController().initLabels();
+                stage.setTitle("Vege");
+                Scene scene = new Scene(root, width, height);
+                scene.getStylesheets().add(getClass().getResource("/styles/EndStyle.css").toExternalForm());
+                stage.setScene(scene);
+                stage.show();
+                stage.setOnCloseRequest(e -> exit(0));
+            } catch (IOException e) {
+                System.out.println(e.getMessage());
+                exit(1);
+            }
 
         } else {
             logger.info("Setting next question...");
@@ -274,21 +277,26 @@ public class ControllerExam {
     }
 
     @FXML
-    public void timerIsDown() throws IOException {
+    public void timerIsDown() {
         if (!isEnd) {
-            logger.info("Time is over! Setting up end scene...");
-            int width = 800, height = 600;
-            Stage stage = (Stage) aBtn.getScene().getWindow();
-            FXMLLoader fl = new FXMLLoader(getClass()
-                    .getResource("/fxml/End.fxml"));
-            Parent root = fl.load();
-            fl.<ControllerEnd>getController().initLabels();
-            stage.setTitle("Vege");
-            Scene scene = new Scene(root,width,height);
-            scene.getStylesheets().add(getClass().getResource("/styles/EndStyle.css").toExternalForm());
-            stage.setScene(scene);
-            stage.show();
-            stage.setOnCloseRequest(e -> exit(0));
+            try {
+                logger.info("Time is over! Setting up end scene...");
+                int width = 800, height = 600;
+                Stage stage = (Stage) aBtn.getScene().getWindow();
+                FXMLLoader fl = new FXMLLoader(getClass()
+                        .getResource("/fxml/End.fxml"));
+                Parent root = fl.load();
+                fl.<ControllerEnd>getController().initLabels();
+                stage.setTitle("Vege");
+                Scene scene = new Scene(root, width, height);
+                scene.getStylesheets().add(getClass().getResource("/styles/EndStyle.css").toExternalForm());
+                stage.setScene(scene);
+                stage.show();
+                stage.setOnCloseRequest(e -> exit(0));
+            } catch (IOException e) {
+                System.out.println(e.getMessage());
+                exit(1);
+            }
         }
     }
 
@@ -342,7 +350,6 @@ public class ControllerExam {
         logger.info("Exam window initialized!");
     }
 
-    
     public void handleTimeLbl() {
         Task<Void> task = new Task<Void>() {
             @Override
@@ -367,11 +374,9 @@ public class ControllerExam {
         timeLbl.textProperty().bind(task.messageProperty());
         task.setOnSucceeded(e -> {
             timeLbl.textProperty().unbind();
-            try {
+            
                 timerIsDown();
-            } catch (IOException ex) {
-                ex.getMessage();
-            }
+            
         });
         Thread th = new Thread(task);
         th.setDaemon(true);

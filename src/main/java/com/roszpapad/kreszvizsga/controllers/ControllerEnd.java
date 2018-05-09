@@ -21,7 +21,6 @@ package com.roszpapad.kreszvizsga.controllers;
  * <http://www.gnu.org/licenses/gpl-3.0.html>.
  * #L%
  */
-
 import com.roszpapad.kreszvizsga.ExamRealizer;
 import com.roszpapad.kreszvizsga.controllers.Controller;
 import javafx.fxml.FXML;
@@ -39,7 +38,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class ControllerEnd {
-    
+
     private static Logger logger = LoggerFactory.getLogger(ControllerEnd.class);
 
     @FXML
@@ -67,22 +66,27 @@ public class ControllerEnd {
     }
 
     @FXML
-    public void handleBackBtn() throws IOException {
-        logger.info("Back button pressed! Let's do it again!");
-        Stage stage = (Stage) backBtn.getScene().getWindow();
+    public void handleBackBtn() {
+        try {
+            logger.info("Back button pressed! Let's do it again!");
+            Stage stage = (Stage) backBtn.getScene().getWindow();
 
-        FXMLLoader fl = new FXMLLoader(getClass()
-                .getResource("/fxml/Main.fxml"));
-        Parent root = fl.load();
-        ExamRealizer.initializeFirst();
-        fl.<Controller>getController().setImg();
-        fl.<Controller>getController().setNameField();
-        stage.setTitle("Kresz Vizsga");
-        Scene scene = new Scene(root,800,600);
-        scene.getStylesheets().add(getClass().getResource("/styles/Style.css").toExternalForm());
-        stage.setScene(scene);
-        stage.show();
-        stage.setOnCloseRequest(e -> exit(0));
+            FXMLLoader fl = new FXMLLoader(getClass()
+                    .getResource("/fxml/Main.fxml"));
+            Parent root = fl.load();
+            ExamRealizer.initializeFirst();
+            fl.<Controller>getController().setImg();
+            fl.<Controller>getController().setNameField();
+            stage.setTitle("Kresz Vizsga");
+            Scene scene = new Scene(root, 800, 600);
+            scene.getStylesheets().add(getClass().getResource("/styles/Style.css").toExternalForm());
+            stage.setScene(scene);
+            stage.show();
+            stage.setOnCloseRequest(e -> exit(0));
+        } catch (IOException e) {
+            System.out.println(e.getMessage());
+            exit(1);
+        }
     }
 
     @FXML

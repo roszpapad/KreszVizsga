@@ -21,7 +21,6 @@ package com.roszpapad.kreszvizsga.controllers;
  * <http://www.gnu.org/licenses/gpl-3.0.html>.
  * #L%
  */
-
 import com.roszpapad.kreszvizsga.ExamRealizer;
 import com.roszpapad.kreszvizsga.Validator;
 import com.roszpapad.kreszvizsga.controllers.Controller;
@@ -44,7 +43,7 @@ import org.slf4j.LoggerFactory;
 public class ControllerOptions {
 
     private static Logger logger = LoggerFactory.getLogger(ControllerOptions.class);
-    
+
     @FXML
     private Button backBtn;
 
@@ -57,12 +56,12 @@ public class ControllerOptions {
     @FXML
     private Label alertLbl;
 
-
-    
     @FXML
-    public void handleBackBtn() throws IOException {
-            Validator v = new Validator();
-            if (v.validateNrOfQuestions(nrOfQuestionsText.getText())) {
+    public void handleBackBtn() {
+
+        Validator v = new Validator();
+        if (v.validateNrOfQuestions(nrOfQuestionsText.getText())) {
+            try {
                 logger.info("Back button pressed! Head back to main scene...");
                 Stage stage = (Stage) backBtn.getScene().getWindow();
 
@@ -74,19 +73,23 @@ public class ControllerOptions {
                 ExamRealizer.setHavingCd(countDownChkBtn.isSelected());
                 fl.<Controller>getController().setImg();
                 stage.setTitle("Kresz Vizsga");
-                Scene scene = new Scene(root,800,600);
+                Scene scene = new Scene(root, 800, 600);
                 scene.getStylesheets().add(getClass().getResource("/styles/Style.css").toExternalForm());
                 stage.setScene(scene);
                 stage.show();
                 stage.setOnCloseRequest(e -> exit(0));
-            } else {
-                logger.warn("Back button pressed! Number given is bad");
-                alertLbl.setText("Hibás érték! Adjon meg egy számot " + 
-                        ExamRealizer.getExam().getMIN_NUMBER_OF_EXERCISES()
-                        + " és " + ExamRealizer.getExam()
-                                .getMAX_NUMBER_OF_EXERCISES() + " között!");
+            } catch (IOException e) {
+                System.out.println(e.getMessage());
+                exit(1);
             }
-        
+        } else {
+            logger.warn("Back button pressed! Number given is bad");
+            alertLbl.setText("Hibás érték! Adjon meg egy számot "
+                    + ExamRealizer.getExam().getMIN_NUMBER_OF_EXERCISES()
+                    + " és " + ExamRealizer.getExam()
+                            .getMAX_NUMBER_OF_EXERCISES() + " között!");
+        }
+
     }
 
     @FXML

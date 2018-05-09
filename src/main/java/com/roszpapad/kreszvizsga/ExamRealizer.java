@@ -119,7 +119,7 @@ public class ExamRealizer {
         return exam;
     }
     
-    private static boolean checkIfDbIsEmpty() throws FileNotFoundException, IOException {
+    private static boolean checkIfDbIsEmpty() {
         logger.info("Checking if database is empty or not...");
         EntityManagerFactory emf
                 = Persistence.createEntityManagerFactory("KRESZJPA");

@@ -21,8 +21,8 @@ package com.roszpapad.kreszvizsga.controllers;
  * <http://www.gnu.org/licenses/gpl-3.0.html>.
  * #L%
  */
-
 import com.roszpapad.kreszvizsga.ExamRealizer;
+import java.io.IOException;
 import static java.lang.System.exit;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -36,24 +36,30 @@ import javafx.stage.Stage;
 public class MainApp extends Application {
 
     @Override
-    public void start(Stage primaryStage) throws Exception {
-        ExamRealizer.initializeFirst();
-        
-        FXMLLoader fl = new FXMLLoader(getClass().getResource("/fxml/Main.fxml"));
-        Parent root = fl.load();
-        fl.<Controller>getController().setImg();
-        primaryStage.setTitle("Kresz Vizsga");
-        Scene scene = new Scene(root,800,600);
-        scene.getStylesheets().add(getClass().getResource("/styles/Style.css").toExternalForm());
-        primaryStage.setScene(scene);
-        primaryStage.show();
-        primaryStage.setOnCloseRequest(e -> exit(0));
-        
+    public void start(Stage primaryStage) {
+        try {
+            ExamRealizer.initializeFirst();
+
+            FXMLLoader fl = new FXMLLoader(getClass().getResource("/fxml/Main.fxml"));
+            Parent root = fl.load();
+            fl.<Controller>getController().setImg();
+            primaryStage.setTitle("Kresz Vizsga");
+            Scene scene = new Scene(root, 800, 600);
+            scene.getStylesheets().add(getClass().getResource("/styles/Style.css").toExternalForm());
+            primaryStage.setScene(scene);
+            primaryStage.show();
+            primaryStage.setOnCloseRequest(e -> exit(0));
+        } catch (IOException e) {
+            System.out.println(e.getMessage());
+            exit(1);
+        }
+
     }
 
-     /**
+    /**
      * This method is only required to call {@code launch(args} so the JavaFx
      * application can start.
+     *
      * @param args the command line arguments
      */
     public static void main(String[] args) {
