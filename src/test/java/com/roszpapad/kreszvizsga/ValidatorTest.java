@@ -128,6 +128,11 @@ public class ValidatorTest {
         expResult = true;
         result = v.checkIfNotEmpty(input);
         assertEquals(expResult, result);
+        
+        input = null;
+        expResult = false;
+        result = v.checkIfNotEmpty(input);
+        assertEquals(expResult, result);
     }
     
 }
