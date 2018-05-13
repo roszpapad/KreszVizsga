@@ -37,9 +37,9 @@ import javafx.scene.image.ImageView;
 import javafx.stage.Stage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
+//CHECKSTYLE:OFF
 public class ControllerExam {
-
+    
     private static Logger logger = LoggerFactory.getLogger(ControllerExam.class);
 
     private static boolean isEnd = false;
@@ -382,4 +382,5 @@ public class ControllerExam {
         th.setDaemon(true);
         th.start();
     }
+    //CHECKSTYLE:ON
 }

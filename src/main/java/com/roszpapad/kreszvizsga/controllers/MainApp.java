@@ -34,7 +34,7 @@ import javafx.stage.Stage;
  * Main class for starting JavaFx application.
  */
 public class MainApp extends Application {
-
+    //CHECKSTYLE:OFF
     @Override
     public void start(Stage primaryStage) {
         try {
@@ -65,4 +65,5 @@ public class MainApp extends Application {
     public static void main(String[] args) {
         launch(args);
     }
+    //CHECKSTYLE:ON
 }

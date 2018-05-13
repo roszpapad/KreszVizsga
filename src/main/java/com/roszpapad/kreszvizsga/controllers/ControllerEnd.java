@@ -36,9 +36,9 @@ import java.io.IOException;
 import static java.lang.System.exit;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
+//CHECKSTYLE:OFF
 public class ControllerEnd {
-
+    
     private static Logger logger = LoggerFactory.getLogger(ControllerEnd.class);
 
     @FXML
@@ -58,7 +58,7 @@ public class ControllerEnd {
 
     @FXML
     private Label finalLbl;
-
+    
     @FXML
     public void handleEndBtn() {
         logger.info("Exit button pressed! Exiting...");
@@ -107,4 +107,5 @@ public class ControllerEnd {
         nameLbl.setText(ExamRealizer.getExam().getUsername());
         logger.trace("Labels were initialized!");
     }
+    //CHECKSTYLE:ON
 }

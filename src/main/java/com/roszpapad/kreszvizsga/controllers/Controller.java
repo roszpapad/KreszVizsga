@@ -38,9 +38,9 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
+    //CHECKSTYLE:OFF
 public class Controller {
-
+    
     private static Logger logger = LoggerFactory.getLogger(Controller.class);
 
     @FXML
@@ -111,7 +111,7 @@ public class Controller {
             exit(1);
         }
     }
-
+    
     @FXML
     public final void setNameField() {
         nameTextFld.setText("");
@@ -122,4 +122,5 @@ public class Controller {
         carImg.setImage(new Image(getClass().getClassLoader().
                 getResourceAsStream("images/kresz.png")));
     }
+    //CHECKSTYLE:ON
 }

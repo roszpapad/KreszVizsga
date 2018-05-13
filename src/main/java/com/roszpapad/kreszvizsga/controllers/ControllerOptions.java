@@ -39,9 +39,9 @@ import java.io.IOException;
 import static java.lang.System.exit;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
+//CHECKSTYLE:OFF
 public class ControllerOptions {
-
+    
     private static Logger logger = LoggerFactory.getLogger(ControllerOptions.class);
 
     @FXML
@@ -104,5 +104,5 @@ public class ControllerOptions {
         logger.trace("Initializing checkbox...");
         countDownChkBtn.setSelected(ExamRealizer.isHavingCd());
     }
-
+    //CHECKSTYLE:ON
 }
