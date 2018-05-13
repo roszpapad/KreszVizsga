@@ -254,7 +254,7 @@ public class ControllerExam {
             aImage.setImage(null);
             bImage.setImage(null);
             cImage.setImage(null);
-            //CImage.imageProperty().set(null);
+            
             aBtn.setDisable(false);
             bBtn.setDisable(false);
             continueBtn.setDisable(true);
@@ -328,7 +328,7 @@ public class ControllerExam {
         aImage.setImage(null);
         bImage.setImage(null);
         cImage.setImage(null);
-        //CImage.imageProperty().set(null);
+        
         aBtn.setDisable(false);
         bBtn.setDisable(false);
         continueBtn.setDisable(true);

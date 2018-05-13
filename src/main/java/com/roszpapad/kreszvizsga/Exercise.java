@@ -45,7 +45,7 @@ public class Exercise {
     private int id;
     @Column(name = "QUESTION")
     private String question;
-    //private List<String> potentialAnswers;
+    
     @Column(name = "ANSWERA")
     private String AnswerA;
     @Column(name = "ANSWERB")
