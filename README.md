@@ -24,14 +24,6 @@ Telepítés
 ---------
  
  ````
- mvn compile
- ````
-
-  ````
- mvn install
- ````
- 
- ````
  mvn package
  ````
  
