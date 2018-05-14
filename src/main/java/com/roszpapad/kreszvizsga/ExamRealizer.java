@@ -190,13 +190,13 @@ public class ExamRealizer {
 
     /**
      * Initializes the {@link CountDown} of {@link ExamRealizer}'s {@link Exam}
-     * if {@link isHavingCd()} returns {@code true}. The duration of
+     * if {@link #isHavingCd()} returns {@code true}. The duration of
      * {@link CountDown} will be 30 seconds multiplied by the number of
-     * exercises of the {@link Exam}. If {@link isHavingCd()} returns {@code false}
+     * exercises of the {@link Exam}. If {@link #isHavingCd()} returns {@code false}
      * the {@link CountDown} of {@link ExamRealizer}'s {@link Exam} will be set
      * to {@code null}.
      *
-     * @see #havingCd
+     * @see #isHavingCd()
      * @see Exam#setCdToNull()
      * @see Exam#getCd()
      */
